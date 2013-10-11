@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package kata2;
 
 import java.util.HashMap;
@@ -13,7 +9,6 @@ public class Kata2 {
     public static void main(String[] args) {
 
         Person person1 = new Person("Javier", 25);
-        int name;
 
         System.out.println(person1.getName());
 
